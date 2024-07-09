@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """This module includes a function that execute multiple coroutines at the
 same time"""
 import asyncio
