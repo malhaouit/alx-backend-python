@@ -24,5 +24,20 @@ Write an asynchronous coroutine `wait_random`.
 
 ### Task 1: Let's execute multiple coroutines at the same time with async
 
-Import `wait_random` from the previous python file and write an async routine called `wait_n` that takes in 2 int arguments.
+Import `wait_random` from the previous python file and write an async routine called `wait_n` that takes in 2 int arguments.  
 [File](1-concurrent_coroutines.py)
+
+### Task 2: Measure the runtime
+
+Create a `measure_time` function that measures the total execution time for `wait_n(n, max_delay)`.  
+[File](2-measure_runtime.py)
+
+### Task 3: Tasks
+
+Write a function (do not create an async function, use the regular function syntax to do this) `task_wait_random` that returns a `asyncio.Task`.  
+[File](3-tasks.py)
+
+### Task 4: Tasks
+
+Take the code from `wait_n` and alter it into a new function `task_wait_n`.  
+[File](4-tasks.py)
