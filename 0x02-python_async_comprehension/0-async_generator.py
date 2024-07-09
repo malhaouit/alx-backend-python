@@ -1,4 +1,4 @@
-#!/usr/bin/envpython3
+#!/usr/bin/env python3
 """This module contains a async_generator() function that creates asynchronous
 generator."""
 
@@ -14,7 +14,7 @@ async def async_generator() -> AsyncGenerator[float, None]:
     Args: (No arguments).
 
     Returns:
-    A synchronous generator yielding floats."""
+        A synchronous generator yielding floats."""
 
     for i in range(10):
         await asyncio.sleep(1)
