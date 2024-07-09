@@ -24,7 +24,7 @@ This project focuses on asynchronous programming in Python, leveraging the async
 	- All the functions and coroutines must be type-annotated.  
 	- All modules and functions should have a documentation.  
 
-## Mandatory tasks
+## Tasks of the project
 
 ### Task 0: The basics of async
 
