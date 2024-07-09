@@ -15,6 +15,15 @@ Thank you for visiting my GitHub, and I hope you find my projects insightful and
 
 ## Introduction
 
+This project focuses on asynchronous programming in Python, leveraging the asyncio library to run multiple coroutines concurrently. It includes functions to simulate asynchronous tasks with random delays and measure their execution times.  
++ **Some of the requirements for this project:**  
+	- All the files should end with a new line.    
+	- All the files must be executable.  
+	- The first line of all files should be exactly `#!/usr/bin/env python3`.  
+	- The code should use the `pycodestyle` style (version 2.5.x).  
+	- All the functions and coroutines must be type-annotated.  
+	- All modules and functions should have a documentation.  
+
 ## Mandatory tasks
 
 ### Task 0: The basics of async
