@@ -44,5 +44,5 @@ Import `async_generator` from the previous task and then Write a coroutine calle
 
 ### Task 2: Run time for four parallel comprehensions
 
-Import `async_comprehension` from the previous file and write a `measure_runtime` coroutine.
+Import `async_comprehension` from the previous file and write a `measure_runtime` coroutine.  
 [File](2-measure_runtime.py)
