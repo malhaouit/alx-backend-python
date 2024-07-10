@@ -27,7 +27,7 @@ The "Python - Async Comprehension" project is a backend development project focu
 - The first line of all files should be exactly `#!/usr/bin/env python3`
 - A `README.md` file, at the root of the folder of the project, is mandatory
 - The code should use the pycodestyle style (version 2.5.x)
-- All modules and functions should have a documentation (python3 -c 'print(__import__("my_module").__doc__)')
+- All modules and functions should have a documentation
 - All functions and coroutines must be type-annotated
 
 ## Tasks
