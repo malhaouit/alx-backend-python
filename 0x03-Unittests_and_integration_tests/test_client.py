@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""""This module include tests for client.GithubOrgClient class."""
+"""This module include tests for client.GithubOrgClient class."""
 
 import unittest
 from parameterized import parameterized
